@@ -26,11 +26,11 @@ cd Skin-Cancer-Detection
 Install dependencies
 Run the following command to install all required libraries:
 
-   pip install -r requirements.txt
+      pip install -r requirements.txt
 
 For Starting the server:
 
-python app.py
+      python app.py
 
 Once the server starts, it will give you a link like:
 
