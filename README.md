@@ -4,7 +4,7 @@ A web-based application for detecting skin cancer from lesion images using machi
 
 ## 🎥 Demo
 
-![Demo](https://github.com/HAMMAD-Shahid27/AI-Photo-Restoration/blob/main/before_after_grid.png)
+![Demo](https://github.com/HAMMAD-Shahid27/Skin-Cancer-Detection/blob/main/SKIN_CANCER_GIF.gif)
 
 ## 🛠 Tech Stack
 
