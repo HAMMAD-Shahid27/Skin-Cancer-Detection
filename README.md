@@ -2,11 +2,15 @@
 
 A web-based application for detecting skin cancer from lesion images using machine learning. Built with **Python** and **Dash**, this app provides a clean interface for medical image classification.
 
+## 🎥 Demo
+
+![Demo](https://github.com/HAMMAD-Shahid27/AI-Photo-Restoration/blob/main/before_after_grid.png)
+
 ## 🛠 Tech Stack
 
 - **Frontend:** Dash (Plotly)
-- **Backend:** Python, scikit-learn / TensorFlow / PyTorch *(customize based on your model)*
-- **Model:** CNN-based classifier for skin lesion classification
+- **Backend:** Python, scikit-learn / TensorFlow / PyTorch
+- **Model:** VGG-11 classifier for skin lesion classification
 
 ## 🚀 Features
 
